@@ -1,0 +1,2 @@
+#include "sun8i-a40i-nano-none-sk.dts"
+#include "sun8i-a40i-ve.dtsi"
